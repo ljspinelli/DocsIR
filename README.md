@@ -9,4 +9,4 @@ A aba oculta Tabelas mantém o cadastro bancário e concatena códigos e nomes p
 Implementa validação de dados para padronizar respostas, categorias e seleção de bancos.
 A interface personalizada oferece navegação entre abas por botões com hiperlinks internos.
 
-Senha: 1234
+Senha de Proteção das Planilhas: 1234
